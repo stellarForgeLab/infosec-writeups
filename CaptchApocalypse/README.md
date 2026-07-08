@@ -6,7 +6,7 @@ This walk-through skips the browser-based crypto and rebuilds the whole encrypt/
 **Date:** 2026-07-07  
 **Room:** https://tryhackme.com/room/captchapocalypse  
 
-> ⚠️ Authorized use only — run this against your own THM lab instance.
+> ⚠️ Authorized use only — only ever test systems you are explicitly permitted to test. This material is intended solely for the TryHackMe CAPTCHApocalypse room on your own lab instance.
 
 ## Overview
 
