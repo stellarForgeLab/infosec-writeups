@@ -1,0 +1,6 @@
+# Secrets
+*.pem
+
+# Python noise
+__pycache__/
+*.pyc
