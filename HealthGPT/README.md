@@ -18,7 +18,7 @@ Starting with **'hi'** to check the system for being up and running properly.
 
 <img src="images/prompt_1_3.png" alt="Prompt 1 to 3" width="700">
 
-Seemed like the system was either not running properly or gated behind filters. I sent a few more 'hi'-prompts and received the same 'Access denied'.
+Seemed like the system was either not running properly or gated behind filters. I **sent a few more 'hi'-prompts** and received the same 'Access denied' every time.
 
 
 ### Prompt 4
