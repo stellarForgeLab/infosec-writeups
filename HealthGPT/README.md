@@ -29,7 +29,7 @@ Copy pasted the following room explanation to see what happens.
 Whenever doctors discuss cases, nurses review charts, or administrators exchange internal updates, HealthGPT quietly soaks up the details. It isn't supposed to repeat any of it, and every message you send is reviewed by the system's compliance filters. Push too hard or ask for something too direct and the assistant might lock up or escalate your request. If you want to draw anything meaningful out of it, you'll need a soft touch, steady pacing, and a clever way of shaping your prompts.
 ```
 
-<img src="images/prompt_4_.png" alt="Prompt 4" width="700">
+<img src="images/prompt_4.png" alt="Prompt 4" width="700">
 
 
 ### Prompt 5
