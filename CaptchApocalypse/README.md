@@ -17,6 +17,8 @@ The target is a login page sitting behind a CAPTCHA. The room specifies: *'Can y
 
 After running the script and receiving the password, log in to retrieve the THM flag.
 
+## Motivation
+Instead of using a headless browser like most walkthroughs, I chose to rebuild the encryption and OCR logic in Python.
 
 ## Enumeration
 
