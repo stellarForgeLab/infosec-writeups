@@ -18,7 +18,7 @@ The target is a login page sitting behind a CAPTCHA. The room specifies: *'Can y
 After running the script and receiving the password, log in to retrieve the THM flag.
 
 ## Motivation
-Instead of using a headless browser like most walkthroughs, I chose to rebuild the encryption and OCR logic in Python.
+Although a headless browser is the standard way to solve this challenge, I wanted to explore an alternative approach and reconstructed the encryption and OCR flow in Python.
 
 ## Enumeration
 
