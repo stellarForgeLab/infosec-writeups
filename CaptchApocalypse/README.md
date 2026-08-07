@@ -1,7 +1,5 @@
 # CAPTCHApocalypse — TryHackMe Walkthrough
 
-This walk-through skips the browser-based crypto and rebuilds the whole encrypt/decrypt flow (plus CAPTCHA OCR) in a single Python script.
-
 **Difficulty:** medium  
 **Date:** 2026-07-07  
 **Room:** https://tryhackme.com/room/captchapocalypse  
