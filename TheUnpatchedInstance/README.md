@@ -29,7 +29,7 @@ aws: [ERROR]: An error occurred (UnauthorizedOperation) when calling the CreateI
 ```
 
 ### Solution
-By using the AWS GUI as a workaround, it was possible to create the image by using the following steps.
+By using the AWS 'Console' (GUI) as a workaround, it was possible to create the image by using the following steps.
 
 #### Step 1
 Search for 'ec2' in the search bar and click on the EC2 service.
